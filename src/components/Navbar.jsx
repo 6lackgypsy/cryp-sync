@@ -85,7 +85,7 @@ const Navbar = () => {
           )}
         </form>
       ) : (
-        <h3 className="order-1 bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-xl font-bold text-transparent">
+        <h3 className="order-1 bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-lg font-bold text-transparent md:text-xl">
           Coin Details
         </h3>
       )}
