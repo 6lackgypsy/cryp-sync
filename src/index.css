@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.app {
+  min-height: 100vh;
+  color: #fff;
+  background: linear-gradient(
+    to bottom right,
+    #111827,
+    rgba(17, 24, 39, 0.95),
+    rgba(17, 24, 39, 0.99)
+  );
+}
